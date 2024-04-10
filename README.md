@@ -28,3 +28,9 @@ Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (1994). Design Patt
 |                | Strategy                | an algorithm                                                                               |
 |                | Template Method         | steps of an algorithm                                                                      |
 |                | Visitor                 | operations that can be applied to object(s) without changing their class(es)               |
+
+## How to run the code
+You can run each design pattern implementation by executing the following command in the terminal:
+```bash
+node /<design-pattern-type>/<design-pattern-name>/index.js
+```

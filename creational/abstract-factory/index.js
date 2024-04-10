@@ -1,5 +1,5 @@
-import { ConcreteFactory1 } from './concrete-factory-1.js';
-import { ConcreteFactory2 } from './concrete-factory-2.js';
+import { ConcreteFactory1 } from './factories/concrete-factory-1.js';
+import { ConcreteFactory2 } from './factories/concrete-factory-2.js';
 
 // The client code works with factories and products only through abstract types: AbstractFactory and AbstractProduct.
 // This lets you pass any factory to the client code without breaking it.

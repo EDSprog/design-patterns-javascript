@@ -1,6 +1,6 @@
 import { AbstractFactory } from './abstract-factory.js';
-import { ProductA2 } from './product-a-2.js';
-import { ProductB2 } from './product-b-2.js';
+import { ProductA2 } from '../products/product-a-2.js';
+import { ProductB2 } from '../products/product-b-2.js';
 
 export class ConcreteFactory2 extends AbstractFactory {
     createProductA() {
