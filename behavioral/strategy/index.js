@@ -1,6 +1,6 @@
 import { Context } from './context.js';
-import { StrategyA } from './strategy-a.js';
-import { StrategyB } from './strategy-b.js';
+import { StrategyA } from './strategies/strategy-a.js';
+import { StrategyB } from './strategies/strategy-b.js';
 
 (() => {
     const context = new Context('arg1', 'arg2');
