@@ -1,4 +1,6 @@
 # Gang of Four (GoF). Design Patterns in JavaScript
+[![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/EDSprog/design-patterns-javascript/blob/main/LICENSE) 
+
 This repository contains JavaScript implementation for all design patterns described in the [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns) book written by "Gang of Four".
 
 ## Design Patterns described by GoF and implemented in this repository
