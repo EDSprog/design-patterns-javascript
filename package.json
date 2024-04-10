@@ -1,0 +1,11 @@
+{
+  "name": "design-patterns-javascript",
+  "version": "1.0.0",
+  "description": "Classic GoF Design Patterns implemented in JavaScript",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
