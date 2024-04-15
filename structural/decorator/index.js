@@ -4,3 +4,10 @@ import { ConcreteComponent } from './components/concrete-component.js';
 
 const decoratedComponent = new ConcreteDecoratorA(new ConcreteDecoratorB(new ConcreteComponent()));
 decoratedComponent.operation();
+
+/**
+ * Output:
+ * ConcreteComponent works
+ * Execute additional operation from ConcreteDecoratorB
+ * Execute additional operation from ConcreteDecoratorA
+ */
