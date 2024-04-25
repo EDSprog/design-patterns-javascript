@@ -10,6 +10,7 @@ Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (1994). Design Patt
 |                | Builder                 | how a composite object gets created                                                        |
 |                | Prototype               | class of object that is instantiated                                                       |
 |                | Singleton               | the sole instance of a class                                                               |
+|                | Factory Method          | create objects in parent class                                                             |
 | **Structural** | Adapter                 | interface to an object                                                                     |
 |                | Bridge                  | implementation of an object                                                                |
 |                | Composite               | structure and composition of an object                                                     |
